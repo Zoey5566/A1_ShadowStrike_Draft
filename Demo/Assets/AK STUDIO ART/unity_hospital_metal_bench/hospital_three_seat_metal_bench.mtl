@@ -1,0 +1,41 @@
+newmtl satin_perforated_metal
+Ka 0.18 0.18 0.18
+Kd 0.66 0.67 0.66
+Ks 0.45 0.45 0.45
+Ns 80
+
+newmtl brushed_steel
+Ka 0.16 0.16 0.16
+Kd 0.55 0.57 0.58
+Ks 0.70 0.70 0.70
+Ns 120
+
+newmtl polished_tube_metal
+Ka 0.18 0.18 0.18
+Kd 0.78 0.79 0.78
+Ks 0.90 0.90 0.90
+Ns 180
+
+newmtl polished_edge_metal
+Ka 0.18 0.18 0.18
+Kd 0.72 0.73 0.72
+Ks 0.80 0.80 0.80
+Ns 140
+
+newmtl dark_joint_metal
+Ka 0.06 0.06 0.06
+Kd 0.22 0.23 0.23
+Ks 0.35 0.35 0.35
+Ns 60
+
+newmtl dark_hole
+Ka 0.01 0.01 0.01
+Kd 0.04 0.04 0.04
+Ks 0.02 0.02 0.02
+Ns 10
+
+newmtl rubber_foot
+Ka 0.01 0.01 0.01
+Kd 0.025 0.025 0.025
+Ks 0.02 0.02 0.02
+Ns 8

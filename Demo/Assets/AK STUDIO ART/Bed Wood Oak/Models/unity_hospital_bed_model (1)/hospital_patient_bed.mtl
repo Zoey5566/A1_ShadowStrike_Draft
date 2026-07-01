@@ -1,0 +1,53 @@
+newmtl soft_blue_mattress
+Ka 0.12 0.18 0.18
+Kd 0.55 0.78 0.78
+Ks 0.10 0.10 0.10
+Ns 25
+
+newmtl white_fabric
+Ka 0.22 0.22 0.22
+Kd 0.92 0.92 0.88
+Ks 0.06 0.06 0.06
+Ns 18
+
+newmtl warm_white_plastic
+Ka 0.22 0.22 0.22
+Kd 0.82 0.84 0.82
+Ks 0.30 0.30 0.30
+Ns 55
+
+newmtl light_grey_recess
+Ka 0.14 0.14 0.14
+Kd 0.62 0.64 0.63
+Ks 0.12 0.12 0.12
+Ns 25
+
+newmtl brushed_metal
+Ka 0.18 0.18 0.18
+Kd 0.58 0.60 0.60
+Ks 0.70 0.70 0.70
+Ns 120
+
+newmtl dark_joint
+Ka 0.04 0.04 0.04
+Kd 0.18 0.18 0.18
+Ks 0.20 0.20 0.20
+Ns 45
+
+newmtl black_rubber
+Ka 0.01 0.01 0.01
+Kd 0.02 0.02 0.02
+Ks 0.02 0.02 0.02
+Ns 8
+
+newmtl dark_handle_cutout
+Ka 0.01 0.01 0.01
+Kd 0.05 0.05 0.05
+Ks 0.01 0.01 0.01
+Ns 5
+
+newmtl hospital_wall_rail
+Ka 0.12 0.12 0.12
+Kd 0.70 0.71 0.70
+Ks 0.35 0.35 0.35
+Ns 60
